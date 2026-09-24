@@ -1,1 +1,2 @@
 # projek_pweb
+### Jadi, projek yang lagi aku bikin ini tuh semacam website portofolio atau halaman profil pribadi. Di bagian paling atas, aku kasih menu navigasi yang bakal tetep nempel biarpun halamannya di-scroll ke bawah. Habis itu masuk ke bagian utama, di situ ada foto profilku, nama, sama background gambar besar yang bikin tampilannya makin hidup. Nah, agak ke bawah aku bikin area galeri yang bentuknya kartu-kartu rapi buat majang hasil karyaku atau foto-foto, dan ditutup sama bagian kontak di paling bawah biar orang gampang kalau mau reach out.### 

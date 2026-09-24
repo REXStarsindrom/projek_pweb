@@ -5,3 +5,4 @@
 3. Animasi Scroll Yang Menggunakan jQuery: buat ngasih efek elemen yang pelan-pelan muncul berurutan pas halamannya digeser ke bawah.
 4. Fitur Kontak: Bagian kontak dilengkapi ikon dari FontAwesome yang langsung terhubung ke email, GitHub, Instagram, dan Pinterest milik saye.
 
+<img width="2878" height="1632" alt="Screenshot 2026-09-24 172721" src="https://github.com/user-attachments/assets/090c74d0-6ffb-4cf3-838b-50d6e1066484" />
